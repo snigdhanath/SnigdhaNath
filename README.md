@@ -1,5 +1,5 @@
 # Hi, I'm Snigdha 👋
-### MS Student in IT Project Management | CS Graduate | Aspiring Technical PM
+### MA Student in IT Project Management | CS Graduate | Aspiring Technical PM
 
 I am a Computer Science graduate from Bangladesh, currently pursuing my Master’s in IT Project Management at **FH Dortmund, Germany**. I bridge the gap between technical execution and strategic management.
 
@@ -18,7 +18,7 @@ I am a Computer Science graduate from Bangladesh, currently pursuing my Master�
 
 ### 🛠️ Skillset
 * **Management:** Agile (Scrum/Kanban), Digital Transformation, Requirement Engineering.
-* **Tools:** Jira, Confluence, MS Excel (Data Analysis)
+* **Tools:** Jira, Trello, Confluence, MS Excel (Data Analysis)
 * **Technical:** Software Development Life Cycle (SDLC), SQL, Python, Java
 * **Languages:** Bengali (Native), English (Fluent), German (Learning).
 
