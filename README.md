@@ -15,10 +15,10 @@ I am a Computer Science graduate, currently pursuing my Master's in **IT Project
 ---
 
 ### 📅 My Plan
-* **Certify:** Become a certified Scrum Master (PSM1) by February 2026.
-* **Communicate:** Reach B1 level German proficiency by March 2026 to effectively lead cross-functional teams in a bilingual environment.
-* **Research:** Develop my Master’s Thesis on **AI & Project Optimization**, focusing on how automation can enhance project delivery.
-* **Grow:** Build a career in the German tech ecosystem as a bridge between stakeholders and development teams.
+* **Certify:** Become a certified Scrum Master (**PSM1**) by February 2026.
+* **Communicate:** Reach **B1 level German proficiency** by March 2026 to effectively lead **cross-functional teams** in a bilingual environment.
+* **Research:** Develop my **Master’s Thesis on AI & Project Optimization**, focusing on how automation can enhance project delivery.
+* **Grow:** Build a career in the **German tech ecosystem** as a bridge between stakeholders and development teams.
 
 ---
 
