@@ -2,7 +2,7 @@
 
 ### MA Student in IT Project Management | CS Graduate | Aspiring Technical PM
 
-I am a Computer Science graduate from Bangladesh, currently pursuing my Master's in **IT Project Management at FH Dortmund, Germany**. I bridge the gap between technical execution and strategic management.
+I am a Computer Science graduate, currently pursuing my Master's in **IT Project Management at FH Dortmund, Germany**. I bridge the gap between technical execution and strategic management.
 
 ---
 
@@ -31,4 +31,4 @@ I am a Computer Science graduate from Bangladesh, currently pursuing my Master's
 ---
 
 ### 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/snigdha-nath/) | [Email](mailto:snigdhanath93@gmail.com)
+**[LinkedIn](https://www.linkedin.com/in/snigdha-nath-6b6a3b114/)** | **[Email](mailto:snigdhanath63@gmail.com)**
