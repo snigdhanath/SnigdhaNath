@@ -1,34 +1,45 @@
-# Hi, I’m Snigdha 👋
+# Hi there, I'm Snigdha! 👋 
 
-### MA Student in IT Project Management | CS Graduate | Aspiring Technical PM
+### M.A. Student in IT Project Management | Computer Science Graduate | Certified Scrum Master (PSM I)
 
-I am a Computer Science graduate, currently pursuing my Master's in **IT Project Management at FH Dortmund, Germany**. I bridge the gap between technical execution and strategic management.
+I am a Computer Science graduate currently pursuing my **Master's in IT Project Management** at **FH Dortmund, Germany**. With a strong foundation in software development and growing expertise in Agile practices, I aim to bridge the gap between technical execution and strategic project management.
 
 ---
 
 ### 🔭 What I am working on
-* **Project Optimization:** Managing workflows and team collaboration using **Jira, Confluence, and Excel**.
-* **Agile Readiness:** Currently preparing for the **PSM1 (Professional Scrum Master I)** certification to strengthen my Scrum expertise.
-* **Data-Driven PM:** Applying my CS background to make informed decisions through **data analysis and process modeling**.
-* **Seeking Opportunities:** Actively looking for a **Working Student position in Germany** to apply my PM theory in an industrial setting.
 
----
-
-### 📅 My Plan
-* **Certify:** Become a certified Scrum Master (**PSM1**) by April 2026.
-* **Communicate:** Reach **B1 level German proficiency** by May 2026 to effectively lead **cross-functional teams** in a bilingual environment.
-* **Research:** Develop my **Master’s Thesis on AI & Project Optimization**, focusing on how automation can enhance project delivery.
-* **Grow:** Build a career in the **German tech ecosystem** as a bridge between stakeholders and development teams.
+*   **Project Optimization:** Managing workflows and enhancing team collaboration using **Jira, Confluence, and MS Excel**.
+*   **Data-Driven PM:** Leveraging my technical background to support decision-making through **Data Analysis, Power BI, and Process Modeling**.
+*   **Language Development:** Strengthening my German proficiency — currently at **B1** and aiming for **B2** by the end of 2026.
+*   **Seeking Opportunities:** Actively looking for a **Working Student position in Germany** to apply my project management skills in a practical environment.
 
 ---
 
 ### 🛠 Skillset
-* **Management:** Agile (Scrum/Kanban), Digital Transformation, Requirement Engineering.
-* **Tools:** Jira, Trello, Confluence, MS Excel (Data Analysis).
-* **Technical:** Software Development Life Cycle (SDLC), SQL, Python, Java.
-* **Languages:** Bengali (Native), English (Fluent), German (Learning).
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Management** | Agile (Scrum/Kanban), Digital Transformation, Requirement Engineering |
+| **Tools** | Jira, Trello, Confluence, MS Excel, Power BI |
+| **Technical** | Software Development Life Cycle (SDLC), SQL, Python, Java |
+| **Languages** | Bengali (Native), English (Fluent), German (B1 in progress) |
 
 ---
 
-### 📫 How to reach me:
-**[LinkedIn](https://www.linkedin.com/in/snigdha-nath-6b6a3b114/)** | **[Email](mailto:snigdhanath63@gmail.com)**
+### 📅 My Plan
+
+*   **Communicate:** Achieve **B2 level German** proficiency to effectively collaborate in bilingual, cross-functional teams.
+*   **Research:** Develop my Master’s Thesis on **AI & Project Optimization**, focusing on automation in project delivery.
+*   **Grow:** Build a career in the German tech ecosystem as a **Technical Project Manager** connecting stakeholders and development teams.
+
+---
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-nath-6b6a3b114/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snigdhanath63@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+I love the challenge of translating complex technical "dev-speak" into clear business value. When I'm not optimizing workflows, I'm likely leveling up my German vocabulary!
