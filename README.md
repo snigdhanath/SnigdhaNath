@@ -10,7 +10,7 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 
 *   **Project Optimization:** Managing workflows and enhancing team collaboration using **Jira, Confluence, and MS Excel**.
 *   **Data-Driven PM:** Leveraging my technical background to support decision-making through **Data Analysis, Power BI, and Process Modeling**.
-*   **Language Development:** Strengthening my German proficiency — currently at **B1** and aiming for **B2** by the end of 2026.
+*   **Language Development:** Strengthening my German proficiency, currently at **B1** and aiming for **B2** by the end of 2026.
 *   **Seeking Opportunities:** Actively looking for a **Working Student position in Germany** to apply my project management skills in a practical environment.
 
 ---
@@ -41,5 +41,4 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 
 ---
 
-### ⚡ Fun Fact
-I love the challenge of translating complex technical "dev-speak" into clear business value. When I'm not optimizing workflows, I'm likely leveling up my German vocabulary!
+
