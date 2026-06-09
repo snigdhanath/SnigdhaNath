@@ -20,6 +20,7 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 *   **Professional Scrum Master I (PSM I)** – Scrum.org
 *   **Google Data Analytics Professional Certificate** – Coursera
 *   **Power BI Desktop for Business Intelligence** – Udemy
+*   **Jira Project Management Credentials – Atlassian University** 
 *   **Six Sigma White Belt** – LinkedIn Learning
 *   **In Progress:** Upskilling in the SAP ecosystem, currently preparing for **SAP ACT100/200** & **SAP Activate** methodologies.
 
