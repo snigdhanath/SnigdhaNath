@@ -1,17 +1,35 @@
 # Hi there, I'm Snigdha! 👋 
 
-### M.A. Student in IT Project Management | Computer Science Graduate | Certified Scrum Master (PSM I)
+### Technical Project Manager in Training | Computer Science Graduate | Professional Scrum Master (PSM I)
 
-I am a Computer Science graduate currently pursuing my **Master's in IT Project Management** at **FH Dortmund, Germany**. With a strong foundation in software development and growing expertise in Agile practices, I aim to bridge the gap between technical execution and strategic project management.
+I am a Computer Science graduate currently pursuing my **Master's in IT Project Management** at **FH Dortmund, Germany**. By combining a strong software development foundation with Agile expertise, I bridge the gap between technical execution and strategic project delivery. 
 
 ---
 
-### 🔭 What I am working on
+### 🚀 What I Do Best
 
-*   **Project Optimization:** Managing workflows and enhancing team collaboration using **Jira, Confluence, and MS Excel**.
-*   **Data-Driven PM:** Leveraging my technical background to support decision-making through **Data Analysis, Power BI, and Process Modeling**.
-*   **Language Development:** Strengthening my German proficiency, currently at **B1** and aiming for **B2** by the end of 2026.
-*   **Seeking Opportunities:** Actively looking for a **Working Student position in Germany** to apply my project management skills in a practical environment.
+*   **Agile & Frameworks:** Applying Scrum and Kanban principles as a certified **Professional Scrum Master (PSM I)** to optimize team workflows and delivery.
+*   **Data-Driven PM:** Leveraging my tech background to support data-backed decision-making through **SQL, Python, and Power BI** (Google Data Analytics certified).
+*   **Tools & Collaboration:** Managing project lifecycles, documentation, and reporting using **Jira, Confluence, and MS Excel**.
+*   **Bilingual Communication:** Actively bridging communication gaps in English and German (**B1**, targeting B2 by late 2026).
+
+---
+
+### 🏅 Certifications & Continuous Learning
+
+*   **Professional Scrum Master I (PSM I)** – Scrum.org
+*   **Google Data Analytics Professional Certificate** – Coursera
+*   **Power BI Desktop for Business Intelligence** – Udemy
+*   **Six Sigma White Belt** – LinkedIn Learning
+*   **In Progress:** Upskilling in the SAP ecosystem, currently preparing for **SAP ACT100/200** & **SAP Activate** methodologies.
+
+---
+
+### 💼 Current Focus & Opportunities
+
+*   **Seeking Roles:** Actively looking for a **Working Student (Werkstudent) / Internship** position in Germany within IT Project Management, Agile Coaching, or Product Ownership.
+*   **Research:** Developing my Master’s Thesis on **AI & Project Optimization**, exploring how automation can streamline project delivery.
+*   **Growth:** Building a long-term career in the German tech ecosystem as a **Technical Project Manager** who connects stakeholders and development teams.
 
 ---
 
@@ -19,26 +37,14 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Management** | Agile (Scrum/Kanban), Digital Transformation, Requirement Engineering |
-| **Tools** | Jira, Trello, Confluence, MS Excel, Power BI |
-| **Technical** | Software Development Life Cycle (SDLC), SQL, Python, Java |
-| **Languages** | Bengali (Native), English (Fluent), German (B1 in progress) |
+| **Project Management** | Agile (Scrum/Kanban), Requirements Engineering, SDLC, Six Sigma Foundations |
+| **Data & Analytics**   | Power BI, Data Analysis, SQL, Python |
+| **Tools & Platforms**  | Jira, Confluence, Trello, MS Excel, SAP (Learning Track) |
+| **Languages**          | Bengali (Native), English (Fluent), German (B1 - professional focus) |
 
 ---
 
-### 📅 My Plan
-
-*   **Communicate:** Achieve **B2 level German** proficiency to effectively collaborate in bilingual, cross-functional teams.
-*   **Research:** Develop my Master’s Thesis on **AI & Project Optimization**, focusing on automation in project delivery.
-*   **Grow:** Build a career in the German tech ecosystem as a **Technical Project Manager** connecting stakeholders and development teams.
-
----
-
-### 📫 How to reach me
+### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-nath-6b6a3b114/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snigdhanath63@gmail.com)
-
----
-
-
