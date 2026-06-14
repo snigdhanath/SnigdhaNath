@@ -22,7 +22,7 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 *   **Power BI Desktop for Business Intelligence** – Udemy
 *   **Jira Project Management Credentials – Atlassian University** 
 *   **Six Sigma White Belt** – LinkedIn Learning
-*   **In Progress:** Upskilling in the SAP ecosystem, currently preparing for **SAP ACT100/200** & **SAP Activate** methodologies.
+*   **In Progress:** Upskilling in the SAP ecosystem, currently preparing for **SAP Activate** 
 
 ---
 
