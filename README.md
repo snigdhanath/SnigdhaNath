@@ -23,7 +23,7 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 *   **Power BI Desktop for Business Intelligence** – Udemy
 *   **Jira Project Management Credentials – Atlassian University**
 *   **The Complete SQL Bootcamp: Go from Zero to Hero** – Udemy
-*   **The Complete Python Bootcamp From Zero to Hero ** – Udemy
+*   **The Complete Python Bootcamp From Zero to Hero** – Udemy
 *   **Six Sigma White Belt** – LinkedIn Learning
 *   **In Progress:** Upskilling in the SAP ecosystem, preparing for **SAP Activate**
 *   **In Progress:**  preparing for **AZ-900** 
