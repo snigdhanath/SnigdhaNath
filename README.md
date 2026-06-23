@@ -1,6 +1,6 @@
 # Hi there, I'm Snigdha! 👋 
 
-### Technical Project Manager in Training | Computer Science Graduate | Professional Scrum Master (PSM I)
+### IT Project Manager | Professional Scrum Master™ (PSM I) | Digital Transformation & Agile Project Delivery | M.A. European PM (IT)
 
 I am a Computer Science graduate currently pursuing my **Master's in IT Project Management** at **FH Dortmund, Germany**. By combining a strong software development foundation with Agile expertise, I bridge the gap between technical execution and strategic project delivery. 
 
@@ -22,7 +22,8 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 *   **Power BI Desktop for Business Intelligence** – Udemy
 *   **Jira Project Management Credentials – Atlassian University** 
 *   **Six Sigma White Belt** – LinkedIn Learning
-*   **In Progress:** Upskilling in the SAP ecosystem, currently preparing for **SAP Activate** 
+*   **In Progress:** Upskilling in the SAP ecosystem, preparing for **SAP Activate**
+*   **In Progress:**  preparing for **AZ-900** 
 
 ---
 
@@ -39,9 +40,9 @@ I am a Computer Science graduate currently pursuing my **Master's in IT Project 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Project Management** | Agile (Scrum/Kanban), Requirements Engineering, SDLC, Six Sigma Foundations |
-| **Data & Analytics**   | Power BI, Data Analysis, SQL, Python |
-| **Tools & Platforms**  | Jira, Confluence, Trello, MS Excel, SAP (Learning Track) |
-| **Languages**          | Bengali (Native), English (Fluent), German (B1 - professional focus) |
+| **Data & Analytics**   |  MS Excel, Power BI, Data Analysis, SQL, Python |
+| **Tools & Platforms**  | Jira, Confluence, Trello, SAP (Learning Track) |
+| **Languages**          | Bengali (C2), English (C1), German (B1) |
 
 ---
 
